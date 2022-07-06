@@ -32,6 +32,10 @@ canvas {
     top: 0em;
     margin-top: auto;
 }
+.image-container{
+    text-align: center;
+    padding:10px 5px 10px 5px;
+}
 .page {
     max-width: 1080px;
     margin:auto;
