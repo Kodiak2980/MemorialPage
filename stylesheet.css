@@ -43,13 +43,15 @@ img{
     max-height: 100%;
 }
 .carousel-button{
-    font-size: 24px;
-    align-items: center; justify-content: center;
-    color: #FFF; background-color: transparent;
-    border: 2px solid lightgray;
+    font-size: 32px;
+    align-items: center;
+    justify-content: center;
+    color: cyan;
+    background-color: transparent;
+    border: 2px solid cyan;
     border-radius: 20%;
-    width: 33px;
-    height: 33px;
+    width: 44px;
+    height: 44px;
 }
 .image-container{
     text-align: center;
